@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Contact information for Computer Engineering diploma resources">
+    <title>Contact - Diploma Resources</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <div class="logo-section">
+                <svg class="logo-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/>
+                </svg>
+                <h1>Computer Engineering Resources</h1>
+            </div>
+            <button id="themeToggle" class="theme-toggle" title="Toggle theme" aria-label="Toggle dark mode">
+                <svg class="sun-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="12" cy="12" r="5"/>
+                    <line x1="12" y1="1" x2="12" y2="3"/>
+                    <line x1="12" y1="21" x2="12" y2="23"/>
+                    <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/>
+                    <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/>
+                    <line x1="1" y1="12" x2="3" y2="12"/>
+                    <line x1="21" y1="12" x2="23" y2="12"/>
+                    <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/>
+                    <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
+                </svg>
+                <svg class="moon-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+                </svg>
+            </button>
+        </div>
+    </header>
+
+    <div class="hero-section">
+        <h2 class="hero-title">Contact Information</h2>
+        <p class="hero-subtitle">Get in touch with our team members</p>
+    </div>
+
+    <section class="contact-section">
+        <div class="container">
+            <div class="contact-grid">
+                <div class="contact-card">
+                    <h3>Student 1</h3>
+                    <div class="contact-field">
+                        <label for="student1-name">Name:</label>
+                        <input type="text" id="student1-name" value="John Doe" readonly>
+                    </div>
+                    <div class="contact-field">
+                        <label for="student1-email">Email:</label>
+                        <input type="email" id="student1-email" value="john.doe@example.com" readonly>
+                    </div>
+                    <div class="contact-field">
+                        <label for="student1-class">Class:</label>
+                        <input type="text" id="student1-class" value="Computer Engineering" readonly>
+                    </div>
+                    <div class="contact-field">
+                        <label for="student1-roll">Roll Number:</label>
+                        <input type="text" id="student1-roll" value="CE001" readonly>
+                    </div>
+                    
+                </div>
+                <div class="contact-card">
+                    <h3>Student 2</h3>
+                    <div class="contact-field">
+                        <label for="student2-name">Name:</label>
+                        <input type="text" id="student2-name" value="Jane Smith" readonly>
+                    </div>
+                    <div class="contact-field">
+                        <label for="student2-email">Email:</label>
+                        <input type="email" id="student2-email" value="jane.smith@example.com" readonly>
+                    </div>
+                    <div class="contact-field">
+                        <label for="student2-class">Class:</label>
+                        <input type="text" id="student2-class" value="Computer Engineering" readonly>
+                    </div>
+                    <div class="contact-field">
+                        <label for="student2-roll">Roll Number:</label>
+                        <input type="text" id="student2-roll" value="CE002" readonly>
+                    </div>
+                   
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <p>&copy; 2026 Diploma Resources. Built with ❤️ for students.</p>
+            <div class="footer-links">
+                <a href="index.html" class="footer-link">Home</a>
+                <a href="about.html" class="footer-link">About</a>
+                <a href="contact.html" class="footer-link">Contact</a>
+                <a href="contribute.html" class="footer-link">Contribute</a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/app.js"></script>
+    <script src="js/theme.js"></script>
+</body>
+</html>
