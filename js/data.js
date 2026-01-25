@@ -4,7 +4,7 @@ const subjects = [
         id: "dsa",
         name: "Data Structures & Algorithms",
         category: "core",
-        image: "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=800&h=600&fit=crop",
+        image: "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=1200&h=900&fit=crop",
         description: "Core data structures, algorithms, and problem solving",
         resources: [
             {
@@ -28,7 +28,7 @@ const subjects = [
         id: "oop",
         name: "Object-Oriented Programming",
         category: "core",
-        image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=800&h=600&fit=crop",
+        image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&h=900&fit=crop",
         description: "OOP concepts using C++ and Java",
         resources: [
             {
@@ -52,7 +52,7 @@ const subjects = [
         id: "dbms",
         name: "Database Management Systems",
         category: "core",
-        image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=800&h=600&fit=crop",
+        image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=1200&h=900&fit=crop",
         description: "Database design, SQL, normalization, and management",
         resources: [
             {
@@ -103,7 +103,7 @@ const subjects = [
         id: "cn",
         name: "Computer Networks",
         category: "theory",
-        image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=600&fit=crop",
+        image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&h=900&fit=crop",
         description: "Network protocols, architecture, and security",
         resources: [
             {
@@ -127,7 +127,7 @@ const subjects = [
         id: "webdev",
         name: "Web Development",
         category: "practical",
-        image: "https://images.unsplash.com/photo-1547658719-da2b51169166?w=800&h=600&fit=crop",
+        image: "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1200&h=900&fit=crop",
         description: "HTML, CSS, JavaScript, and frameworks",
         resources: [
             {
@@ -151,7 +151,7 @@ const subjects = [
         id: "python",
         name: "Python Programming",
         category: "practical",
-        image: "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=800&h=600&fit=crop",
+        image: "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=1200&h=900&fit=crop",
         description: "Python basics to advanced concepts",
         resources: [
             {
@@ -175,7 +175,7 @@ const subjects = [
         id: "software",
         name: "Software Engineering",
         category: "theory",
-        image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&h=600&fit=crop",
+        image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&h=900&fit=crop",
         description: "Software development lifecycle and methodologies",
         resources: [
             {
