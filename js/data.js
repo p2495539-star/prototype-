@@ -14,7 +14,7 @@ const subjects = [
             },
             {
                 title: "Important Notes",
-                link: "https://drive.google.com/drive/folders/XXXX",
+                link: "https://drive.google.com/drive/folders/1H84UJD-asG_yyp92Cp5EilD15EbfmzT1?usp=sharing",
                 type: "pdf"
             },
             {
@@ -199,6 +199,7 @@ const subjects = [
 
 // Debug log
 console.log("Data.js loaded successfully! Subjects count:", subjects.length);
+
 
 
 
