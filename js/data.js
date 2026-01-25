@@ -1,11 +1,11 @@
 // Enhanced subjects data with more information
 const subjects = [
     {
-        id: "ds",
+        id: "dsa",
         name: "Data Structures using C",
         category: "core",
         image: "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=1200&h=900&fit=crop",
-        description: "Core data structures and problem solving",
+        description: "Core data structures using C",
         resources: [
             {
                 title: "Recommended Books",
@@ -199,5 +199,6 @@ const subjects = [
 
 // Debug log
 console.log("Data.js loaded successfully! Subjects count:", subjects.length);
+
 
 
