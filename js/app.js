@@ -334,14 +334,7 @@ if (FEATURES_ENABLED) {
 
     // 5. ACCESSIBILITY IMPROVEMENTS
     function enhanceAccessibility() {
-        // Add skip link
-        const skipLink = document.createElement("a");
-        skipLink.href = "#main";
-        skipLink.className = "skip-link";
-        skipLink.textContent = "Skip to main content";
-        document.body.insertBefore(skipLink, document.body.firstChild);
-
-        // Improve focus management
+      // Improve focus management
         document.addEventListener("keydown", (e) => {
             if (e.key === "Tab") {
                 document.body.classList.add("keyboard-navigation");
@@ -533,5 +526,6 @@ if (chatToggle) {
         }
     });
 }
+
 
 
