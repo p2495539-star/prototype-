@@ -9,7 +9,7 @@ const subjects = [
         resources: [
             {
                 title: "Recommended Books",
-                link: "https://drive.google.com/drive/folders/XXXX",
+                link: "https://drive.google.com/drive/folders/1DpnqxUG3RliROQkbvgmgGH4pjKXSnH0N?usp=drive_link",
                 type: "pdf"
             },
             {
@@ -199,6 +199,7 @@ const subjects = [
 
 // Debug log
 console.log("Data.js loaded successfully! Subjects count:", subjects.length);
+
 
 
 
