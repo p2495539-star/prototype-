@@ -19,7 +19,7 @@ const subjects = [
             },
             {
                 title: "Previous Year Question Papers",
-                link: "https://drive.google.com/drive/folders/XXXX",
+                link: "https://drive.google.com/drive/folders/1Os3IKHidslPqrK_Stq3nKUhvAXBQlSTZ?usp=sharing",
                 type: "pdf"
             }
         ]
@@ -199,6 +199,7 @@ const subjects = [
 
 // Debug log
 console.log("Data.js loaded successfully! Subjects count:", subjects.length);
+
 
 
 
