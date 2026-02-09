@@ -4,29 +4,51 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
 :root {
-  /* Cozy Coffee Theme - Light Mode */
-  --bg-primary: #e8d5b7;
-  --bg-secondary: #b8860b;
-  --bg-gradient: linear-gradient(135deg, #b8860b 0%, #e8d5b7 50%, #daa520 100%);
-  --text-primary: #654321;
-  --text-secondary: #8b4513;
-  --text-tertiary: #a0522d;
+--bg-primary: #9fe4ca;
 
-  --card-bg: #f0e6d2;
-  --card-hover: #e8d5b7;
-  --card-border: #b8860b;
-  --card-shadow: 0 2px 8px rgba(210, 180, 140, 0.15);
-  --card-shadow-hover: 0 4px 16px rgba(210, 180, 140, 0.25);
+--bg-secondary: #469e91;
 
-  --accent-primary: #daa520;
-  --accent-secondary: #f4a460;
-  --accent-success: #9acd32;
-  --accent-warning: #daa520;
-  --accent-error: #cd5c5c;
+--bg-gradient: linear-gradient( 135 deg, #e3ebe8 0%, #44a592 50%, #669481 100%
 
-  --input-bg: #f0e6d2;
-  --input-border: #b8860b;
-  --input-focus: #f4a460;
+);
+
+--text-primary: #103630;
+
+--text-secondary: #32bba0;
+
+--text-tertiary: #5b6f6b;
+
+/* deep blue-green charcoal */
+
+--card-bg: #e8efec;
+
+--card-hover: #dbe6e2;
+
+--card-border: #c3d1cc;
+ --card-shadow: 0 2px 6px rgba(0, 2, 1, 0.12);
+
+--card-shadow-hover: 0 4px 12px rgba(25, 35, 32, 0.18);
+--accent-primary: #4f7f7af
+
+/* teal moss */
+
+--accent-secondary: #7aa69f;
+
+/* soft sea-sage */
+
+--accent-success: #4f8a7b;
+--accent-warning: #8f8a62;
+
+/* muted olive-tan */
+
+--accent-error:#8a5450;
+ --input-bg: #5fc2a9;
+
+--input-border:#22e9a6;
+
+--input-focus: #ecf1f1;
+
+
 
   --chip-bg: #e8d5b7;
   --chip-active-bg: #b8860b;
@@ -888,5 +910,6 @@ input:focus-visible {
   outline: 2px solid var(--accent-primary);
   outline-offset: 2px;
 }
+
 
 
