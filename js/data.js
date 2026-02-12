@@ -29,7 +29,7 @@ const subjects = [
         name: "Object-Oriented Programming",
         category: "core",
         image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&h=900&fit=crop",
-        description: "OOP concepts using C++ and Java",
+        description: "OOP concepts using Java",
         resources: [
             {
                 title: "Recommended Books",
@@ -199,6 +199,7 @@ const subjects = [
 
 // Debug log
 console.log("Data.js loaded successfully! Subjects count:", subjects.length);
+
 
 
 
