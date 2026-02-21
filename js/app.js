@@ -1,3 +1,17 @@
+/* ===== FIX: Browser Back Button Blank Page (bfcache issue) ===== */
+/* Must be at the very top of the file */
+window.addEventListener("pageshow", function (event) {
+    if (event.persisted) {
+        window.location.reload();
+    }
+});
+
+window.addEventListener("popstate", function () {
+    window.location.reload();
+});
+/* ===== END FIX ===== */
+
+
 // Feature toggle for easy reversion
 const FEATURES_ENABLED = true;
 
@@ -74,15 +88,10 @@ function getCategoryLabel(category) {
     };
     return labels[category] || "General";
 }
-
-// Navigate to subject page with animation
+// navigate 
 function navigateToSubject(id) {
-    document.body.classList.add("page-exit");
-    setTimeout(() => {
-        window.location.href = `subject.html?id=${id}`;
-    }, 300);
+    window.location.href = `subject.html?id=${id}`;
 }
-
 // Filter subjects
 function filterSubjects() {
     let filtered = subjects;
@@ -526,6 +535,7 @@ if (chatToggle) {
         }
     });
 }
+
 
 
 
