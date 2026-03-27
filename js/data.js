@@ -56,19 +56,19 @@ const subjects = [
         description: "Database design, SQL, normalization, and management",
         resources: [
             {
-                title: "DBMS Complete Notes",
+                title: "DBMS Recommended Books",
                 link: "https://drive.google.com/drive/folders/XXXX",
                 type: "pdf",
                 size: "4.2 MB"
             },
             {
-                title: "SQL Query Practice",
+                title: "Important Notes",
                 link: "https://drive.google.com/drive/folders/XXXX",
                 type: "doc",
                 size: "1.5 MB"
             },
             {
-                title: "ER Diagram Examples",
+                title: "Previous Year Question Papers",
                 link: "https://drive.google.com/drive/folders/XXXX",
                 type: "pdf",
                 size: "2.1 MB"
@@ -100,11 +100,11 @@ const subjects = [
         ]
     },
     {
-        id: "cn",
-        name: "Computer Networks",
+        id: "coa",
+        name: "Computer Organisation & Architechture",
         category: "theory",
         image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&h=900&fit=crop",
-        description: "Network protocols, architecture, and security",
+        description: "Memory communication , architecture, and DMA",
         resources: [
             {
                 title: "Recommended Books",
@@ -124,11 +124,11 @@ const subjects = [
         ]
     },
     {
-        id: "webdev",
-        name: "Web Development",
+        id: "C",
+        name: "Programming in C",
         category: "practical",
         image: "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1200&h=900&fit=crop",
-        description: "HTML, CSS, JavaScript, and frameworks",
+        description: "C fundamentals, arrays and structure",
         resources: [
             {
                 title: "Recommended Books",
