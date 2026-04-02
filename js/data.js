@@ -33,17 +33,17 @@ const subjects = [
         resources: [
             {
                 title: "Recommended Books",
-                link: "https://drive.google.com/drive/folders/XXXX",
+                link: "https://drive.google.com/drive/folders/1xMpGh-posiStGnD62NVVbaBLRNWiNXSR?usp=sharing",
                 type: "pdf"
             },
             {
                 title: "Important Notes",
-                link: "https://drive.google.com/drive/folders/XXXX",
+                link: "https://drive.google.com/drive/folders/1QQQHysvJfzrYTh-8D-v-bUYSA2vjdgsN?usp=sharing",
                 type: "pdf"
             },
             {
                 title: "Previous Year Question Papers",
-                link: "https://drive.google.com/drive/folders/XXXX",
+                link: "https://drive.google.com/drive/folders/1nai5o7C6PkUo-kokKlzNXF_YOy4v0eC2?usp=sharing",
                 type: "pdf"
             }
         ]
@@ -57,19 +57,19 @@ const subjects = [
         resources: [
             {
                 title: "DBMS Recommended Books",
-                link: "https://drive.google.com/drive/folders/XXXX",
+                link: "https://drive.google.com/drive/folders/1j3pcch4gsofN1N4jTg4vc4cgUfEgbF9X?usp=sharing",
                 type: "pdf",
                 size: "4.2 MB"
             },
             {
                 title: "Important Notes",
-                link: "https://drive.google.com/drive/folders/XXXX",
+                link: "https://drive.google.com/drive/folders/1ctpysi0dsMx9VYN9DiPgH9KTtXHBmpz-?usp=sharing",
                 type: "doc",
                 size: "1.5 MB"
             },
             {
                 title: "Previous Year Question Papers",
-                link: "https://drive.google.com/drive/folders/XXXX",
+                link: "https://drive.google.com/drive/folders/1BCtXF1iMQWsyEGzWvqY9SBRFSds8BIkZ?usp=sharing",
                 type: "pdf",
                 size: "2.1 MB"
             }
@@ -84,17 +84,17 @@ const subjects = [
         resources: [
             {
                 title: "Recommended Books",
-                link: "https://drive.google.com/drive/folders/XXXX",
+                link: "https://drive.google.com/drive/folders/1fiIAvn1Dq1ESrEMKkbNfZ2bq2r8XDVTF?usp=sharing",
                 type: "pdf"
             },
             {
                 title: "Important Notes",
-                link: "https://drive.google.com/drive/folders/XXXX",
+                link: "https://drive.google.com/drive/folders/1unYhsqBsp9lMHFlMYTnaIeFK8eohLdks?usp=sharing",
                 type: "pdf"
             },
             {
                 title: "Previous Year Question Papers",
-                link: "https://drive.google.com/drive/folders/XXXX",
+                link: "https://drive.google.com/drive/folders/1AkgAzKw0QCIENijmxfvhWRTpbdHuT3lE?usp=sharing",
                 type: "pdf"
             }
         ]
@@ -108,17 +108,17 @@ const subjects = [
         resources: [
             {
                 title: "Recommended Books",
-                link: "https://drive.google.com/drive/folders/XXXX",
+                link: "https://drive.google.com/drive/folders/1DL4Zj3DdnPg-7PvwVBNNbA_8ERoNdOaL?usp=sharing",
                 type: "pdf"
             },
             {
                 title: "Important Notes",
-                link: "https://drive.google.com/drive/folders/XXXX",
+                link: "https://drive.google.com/drive/folders/1R821UMEb7wuRQY4GnvIgpTTAVJ8F8YER?usp=sharing",
                 type: "pdf"
             },
             {
                 title: "Previous Year Question Papers",
-                link: "https://drive.google.com/drive/folders/XXXX",
+                link: "https://drive.google.com/drive/folders/15m3SK5lfUiyY-GbPj4e3tQUTUP-fis13?usp=sharing",
                 type: "pdf"
             }
         ]
@@ -132,17 +132,17 @@ const subjects = [
         resources: [
             {
                 title: "Recommended Books",
-                link: "https://drive.google.com/drive/folders/XXXX",
+                link: "https://drive.google.com/drive/folders/1mQFma5kfQqAsJ7poVnTk-Ocb_64eP8m7?usp=sharing",
                 type: "pdf"
             },
             {
                 title: "Important Notes",
-                link: "https://drive.google.com/drive/folders/XXXX",
+                link: "https://drive.google.com/drive/folders/1pBbIFX7ANBwfdoGT-OJesLcvRM80CBqq?usp=sharing",
                 type: "pdf"
             },
             {
                 title: "Previous Year Question Papers",
-                link: "https://drive.google.com/drive/folders/XXXX",
+                link: "https://drive.google.com/drive/folders/1z7Jn_-ZQF-9dRBaErAjdHqYVJ6hGPpx_?usp=sharing",
                 type: "pdf"
             }
         ]
@@ -156,17 +156,17 @@ const subjects = [
         resources: [
             {
                 title: "Recommended Books",
-                link: "https://drive.google.com/drive/folders/XXXX",
+                link: "https://drive.google.com/drive/folders/1BZJuC6MzKBuqidt79b8_yef6K0xGhGC_?usp=sharing",
                 type: "pdf"
             },
             {
                 title: "Important Notes",
-                link: "https://drive.google.com/drive/folders/XXXX",
+                link: "https://drive.google.com/drive/folders/1pApn_XxZoavr96qM0LY7eD2fXGMb8VLS?usp=sharing",
                 type: "pdf"
             },
             {
                 title: "Previous Year Question Papers",
-                link: "https://drive.google.com/drive/folders/XXXX",
+                link: "https://drive.google.com/drive/folders/1_ryvCYOe6Kr1EzSgiR9kAbx9Lqm1WdjO?usp=sharing",
                 type: "pdf"
             }
         ]
@@ -180,12 +180,12 @@ const subjects = [
         resources: [
             {
                 title: "Recommended Books",
-                link: "https://drive.google.com/drive/folders/XXXX",
+                link: "https://drive.google.com/drive/folders/1UzC_AbiaA-BEgJqYnl04RxOU1PGJX3M4?usp=sharing",
                 type: "pdf"
             },
             {
                 title: "Important Notes",
-                link: "https://drive.google.com/drive/folders/XXXX",
+                link: "https://drive.google.com/drive/folders/1S2qRBhOaBu_Kq0f6HTGY_dZ7jQZ1KWW8?usp=sharing",
                 type: "pdf"
             },
             {
