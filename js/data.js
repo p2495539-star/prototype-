@@ -363,6 +363,30 @@ const subjects = [
                 type: "pdf"
             }
         ]
+    },
+     {
+        id: "digital-electronics",
+        name: "DIGITAL ELECTRONICS",
+        category: "theory",
+        image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&h=900&fit=crop",
+        description: "Digital circuits, logic gates, flip-flops, and combinational/sequential systems",
+        resources: [
+            {
+                title: "Recommended Books",
+                link: "COMING SOON",
+                type: "pdf"
+            },
+            {
+                title: "Important Notes",
+                link: "COMING SOON",
+                type: "pdf"
+            },
+            {
+                title: "Previous Year Question Papers",
+                link: "https://drive.google.com/drive/folders/1jqZbifWwCZTBYBcWNDuD6gFm_9KnmWyJ?usp=sharing",
+                type: "pdf"
+            }
+        ]
     }
 ];
 
