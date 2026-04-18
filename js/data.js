@@ -26,7 +26,7 @@ const subjects = [
     },
     {
         id: "oop",
-        name: "Object-Oriented Programming",
+        name: "Object-Oriented Programming (OOPS)",
         category: "core",
         image: "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&h=900&fit=crop",
         description: "OOP concepts using Java",
@@ -50,7 +50,7 @@ const subjects = [
     },
     {
         id: "dbms",
-        name: "Database Management Systems",
+        name: "Database Management Systems(DBMS)",
         category: "core",
         image: "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=1200&h=900&fit=crop",
         description: "Database design, SQL, normalization, and management",
@@ -77,7 +77,7 @@ const subjects = [
     },
     {
         id: "os",
-        name: "Operating Systems",
+        name: "Operating Systems (OS)",
         category: "theory",
         image: "https://images.unsplash.com/photo-1629654297299-c8506221ca97?w=800&h=600&fit=crop",
         description: "Process management, memory, and file systems",
@@ -101,7 +101,7 @@ const subjects = [
     },
     {
         id: "coa",
-        name: "Computer Organisation & Architechture",
+        name: "Computer Organisation & Architechture (COA)",
         category: "theory",
         image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&h=900&fit=crop",
         description: "Memory communication , architecture, and DMA",
@@ -125,7 +125,7 @@ const subjects = [
     },
     {
         id: "C",
-        name: "Programming in C",
+        name: "Programming in C (PIC)",
         category: "practical",
         image: "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1200&h=900&fit=crop",
         description: "C fundamentals, arrays and structure",
@@ -246,7 +246,7 @@ const subjects = [
     },
     {
         id: "applied-math-2",
-        name: "APPLIED MATHEMATICS -2",
+        name: "APPLIED MATHEMATICS II",
         category: "core",
         image: "https://images.unsplash.com/photo-1676302447092-14a103558511?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         description: "Advanced applied mathematics for engineering",
@@ -270,7 +270,7 @@ const subjects = [
     },
     {
         id: "applied-physics-2",
-        name: "APPLIED PHYSICS-2",
+        name: "APPLIED PHYSICS II",
         category: "core",
         image: "https://media.istockphoto.com/id/1866121335/photo/physics-and-mathematics.jpg?s=2048x2048&w=is&k=20&c=0e6C6C7zlAoYIBk5Pg6Nxa8ibY8aN0x5ZIMIJN4g0OU=",
         description: "Applied physics concepts for engineering applications",
@@ -366,7 +366,7 @@ const subjects = [
     },
      {
         id: "digital-electronics",
-        name: "DIGITAL ELECTRONICS",
+        name: "DIGITAL ELECTRONICS (DE)",
         category: "theory",
         image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&h=900&fit=crop",
         description: "Digital circuits, logic gates, flip-flops, and combinational/sequential systems",
@@ -390,7 +390,7 @@ const subjects = [
     },
       {
         id: "fundamentals-it",
-        name: "FUNDAMENTALS OF IT",
+        name: "FUNDAMENTALS OF IT (FIT)",
         category: "core",
         image: "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=1200&h=900&fit=crop",
         description: "Introduction to Information Technology fundamentals, computer systems, and basic concepts",
