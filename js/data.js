@@ -387,6 +387,102 @@ const subjects = [
                 type: "pdf"
             }
         ]
+    },
+      {
+        id: "fundamentals-it",
+        name: "FUNDAMENTALS OF IT",
+        category: "core",
+        image: "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=1200&h=900&fit=crop",
+        description: "Introduction to Information Technology fundamentals, computer systems, and basic concepts",
+        resources: [
+            {
+                title: "Recommended Books",
+                link: "#",
+                type: "pdf"
+            },
+            {
+                title: "Important Notes",
+                link: "#",
+                type: "pdf"
+            },
+            {
+                title: "Previous Year Question Papers",
+                link: "#",
+                type: "pdf"
+            }
+        ]
+    },
+    {
+        id: "applied-physics-1",
+        name: "APPLIED PHYSICS I",
+        category: "core",
+        image: "https://images.unsplash.com/photo-1636466497217-26a8cbeaf0aa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UEhZU0lDU3xlbnwwfHwwfHx8MA%3D%3D",
+        description: "Fundamental applied physics concepts for engineering applications",
+        resources: [
+            {
+                title: "Recommended Books",
+                link: "#",
+                type: "pdf"
+            },
+            {
+                title: "Important Notes",
+                link: "#",
+                type: "pdf"
+            },
+            {
+                title: "Previous Year Question Papers",
+                link: "#",
+                type: "pdf"
+            }
+        ]
+    },
+    {
+        id: "applied-maths-1",
+        name: "APPLIED MATHS I",
+        category: "core",
+        image: "https://plus.unsplash.com/premium_photo-1672256330854-98c717493128?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TUFUSFN8ZW58MHx8MHx8fDA%3D",
+        description: "Fundamental applied mathematics for engineering students",
+        resources: [
+            {
+                title: "Recommended Books",
+                link: "#",
+                type: "pdf"
+            },
+            {
+                title: "Important Notes",
+                link: "#",
+                type: "pdf"
+            },
+            {
+                title: "Previous Year Question Papers",
+                link: "#",
+                type: "pdf"
+            }
+        ]
+    },
+    {
+        id: "english-comm-1",
+        name: "ENGLISH AND COMM. SKILLS I",
+        category: "theory",
+        image: "https://images.unsplash.com/photo-1543269865-cbf427effbad?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        description: "English language proficiency and communication skills development",
+        resources: [
+            {
+                title: "Recommended Books",
+                link: "#",
+                type: "pdf"
+            },
+            {
+                title: "Important Notes",
+                link: "#",
+                type: "pdf"
+            },
+            {
+                title: "Previous Year Question Papers",
+                link: "#",
+                type: "pdf"
+            }
+        ]
     }
 ];
 
