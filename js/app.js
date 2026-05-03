@@ -436,6 +436,27 @@ if (FEATURES_ENABLED) {
     }
 }
 
+// Alert for broken resource links (Recommended Books buttons)
+document.addEventListener('click', function(e) {
+    const resourceItem = e.target.closest('.resource-item');
+    if (resourceItem) {
+        e.preventDefault();
+        const titleEl = resourceItem.querySelector('.resource-title');
+        const href = resourceItem.getAttribute('href');
+        const title = titleEl ? titleEl.textContent.trim() : '';
+        
+        if (href === '#' || href === 'COMING SOON' || !href || !href.startsWith('http')) {
+            alert(`"${title}" link is not available yet!\nResources coming soon.`);
+            console.log('Blocked broken link:', href, title);
+            return false;
+        }
+        
+        // Valid link: open in new tab safely
+        window.open(href, '_blank', 'noopener,noreferrer');
+        return false;
+    }
+}, true);
+
 // Chat functionality
 const chatBox = document.getElementById("chatBox");
 const chatMessages = document.getElementById("chatMessages");
